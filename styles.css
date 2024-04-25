@@ -1,0 +1,23 @@
+body{
+    background-color: cyan;
+    color: black);
+}
+
+p{
+    background-color: orange;
+}
+
+.paragraf-khusus {
+    background-color: limegreen;
+    color: green;
+    font-size: 10;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#teks-1{
+    font-size: 20;
+}
+
+button{
+    background-color: yellow;
+}
