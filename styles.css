@@ -1,4 +1,4 @@
-body{
+/* body{
     background-color: cyan;
     color: black);
 }
@@ -20,4 +20,8 @@ p{
 
 button{
     background-color: yellow;
+} */
+
+#peta{
+    height: 200px;
 }
